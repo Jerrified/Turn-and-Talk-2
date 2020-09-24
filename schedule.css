@@ -14,4 +14,7 @@ tbody {
 
 body {
     font-family: 'Courier New', Courier, monospace;
+    background-image: url("tables.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
